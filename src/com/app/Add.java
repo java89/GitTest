@@ -6,8 +6,10 @@ public class Add {
 		int b=20;
 		int c=a+b;
 		int d=b-a;
+		int e=b/a;
 		System.out.println(c);
 		System.out.println(d);
+		System.out.println(e);
 		
 	}
 
