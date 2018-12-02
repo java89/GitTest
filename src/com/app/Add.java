@@ -7,9 +7,11 @@ public class Add {
 		int c=a+b;
 		int d=b-a;
 		int e=b/a;
+		int f=a*b;
 		System.out.println(c);
 		System.out.println(d);
 		System.out.println(e);
+		System.out.println(f);
 		
 	}
 
